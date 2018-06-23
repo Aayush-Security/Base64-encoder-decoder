@@ -5,7 +5,7 @@
 # This program may be used either combined with a graphical utility or
 # standalone as a CLI utility.
 #
-#   Copyright (C) 2015 Vitor S <https://notabug.org/kzimmermann>
+#   Copyright (C) 2018 Aayush Trivedi <Aayush_trivedi@hotmail.com>
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
