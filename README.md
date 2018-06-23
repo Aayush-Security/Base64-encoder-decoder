@@ -1,5 +1,6 @@
 Graphical Base64 encoder and decoder
 ===================
+<p align="center"><img width="65%" alt="GUI Interface" src="https://raw.githubusercontent.com/Aayush-Security/Base64-encoder-decoder/master/Screenshot%20from%202018-06-23%2016-58-44.png"></p>
 
 A simple base64 encoder and decoder for files, written in python. 
 Works as both a command-line utility and as a graphical application for those 
