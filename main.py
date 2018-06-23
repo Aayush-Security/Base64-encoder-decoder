@@ -1,9 +1,7 @@
 #!/usr/bin/python
 #
-# Graphical interface for the b64converter middleware.
-# This program is part of b64converter_python.
 #
-#   Copyright (C) 2015 Vitor S <https://notabug.org/kzimmermann>
+#   Copyright (C) 2018 Aayush Trivedi <aayush_trivedi@hotmail.com>
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
